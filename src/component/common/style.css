@@ -1,0 +1,98 @@
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-header {
+    background-color:#3C2E1A;
+    padding:10px
+}
+
+.brand{
+    color:#fff;
+    font-size: 1.23em;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold
+}
+
+.brand:hover {
+    color:#fff;
+    text-decoration: none
+}
+.food-search{
+   width:200px !important
+}
+.main-header_brand_item1 {
+    display:inline-block;
+    padding:20px
+}
+.main-header_brand_item2 {
+    display:inline-block;
+    width:560px
+}
+.main-header_brand_item2 input{
+    border-radius: 0px;
+    height: 50px;
+    border-radius: 30px
+}
+.main-header_brand {
+    display:inline-block;
+    vertical-align: middle;
+    margin-left:100px
+}
+.main-header nav {
+    display:inline-block;
+    text-align:right;
+    vertical-align: middle;
+    width:calc(100% - 1000px);
+    padding-right:90px;
+}
+.main-nav_item{
+    color:#000;
+    list-style:none;
+    display:inline;
+    padding:10px;
+    color:#fff;
+    font-size:1.2em;
+    font-weight: bold;
+    vertical-align: middle;
+
+
+}
+.main-nav_items{
+    text-align:center;
+    vertical-align: middle
+}
+
+
+/*----------------------------- foooter------------------------------------- */ 
+ .main-footer{
+     background: #3C2E1A;
+     width: 100%;
+     height: 300px;
+     position:fixed;
+     bottom:0
+ }   
+
+ .main-footer_item {
+     list-style: none;
+     color:#fff;
+     text-align: 'center';
+ }
+
+ .main-footer_item:hover{
+     font-size: 1.1em;
+     font-weight: bold
+ }
+
+ .main-footer_items {
+     display: inline-block;
+     
+ }
+
+ .main-footer_nav {
+   text-align: center;
+   padding:20px
+ }

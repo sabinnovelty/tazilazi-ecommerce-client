@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      sdf
+          <h1>Dashboard component is comming soon.</h1>
       <Footer />
     </div>
   );

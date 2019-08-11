@@ -1,0 +1,12 @@
+.signin{
+    display: flex;
+    width: 580px;
+    flex-direction: column;
+    padding:30
+    
+}
+
+.button-group{
+    display: flex;
+    
+}

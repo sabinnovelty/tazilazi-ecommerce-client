@@ -1,0 +1,16 @@
+.signup{
+ width:40%;
+}
+
+.group1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.signup-title{
+    text-align: center
+}
+.signup-title p{
+    font-family: sans-serif;
+    font-size: 1.3em
+}

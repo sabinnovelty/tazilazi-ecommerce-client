@@ -17,6 +17,13 @@
     font-weight: bold
 }
 
+.option{
+    display: inline-block;
+}
+.option:hover{
+    cursor: pointer;
+}
+
 .brand:hover {
     color:#fff;
     text-decoration: none

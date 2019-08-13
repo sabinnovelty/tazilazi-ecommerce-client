@@ -5,6 +5,7 @@
 .group1{
     display: flex;
     justify-content: space-around;
+    margin:0px
 }
 
 .signup-title{

@@ -36,7 +36,7 @@ class App extends React.Component {
             <Route exact path="/" component={HomePage} />
             <Route exact path="/signin" component={SingInSignUp} />
           </Switch>
-          <Footer />
+          {/* <Footer /> */}
         </Router>
       </div>
     );
